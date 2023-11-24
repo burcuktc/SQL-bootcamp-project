@@ -1,2 +1,2 @@
 # SQL-bootcamp-project
-Techcareer & Erciyes teknopark işirliğinde gerçekleştirilen veri tabanı bootcamp bitirme projesidir.
+Techcareer & Erciyes teknopark işbirliğinde gerçekleştirilen veri tabanı bootcamp bitirme projesidir.
